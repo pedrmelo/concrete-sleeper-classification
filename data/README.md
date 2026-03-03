@@ -17,14 +17,6 @@ data/
 │   └── CLASSE_3_POOR/
 ```
 
-## 📋 Estatísticas
-
-| Classe | Quantidade | Descrição |
-|--------|-----------|-----------|
-| GOOD   | XXX       | Dormentes em condições adequadas |
-| FAIR   | XXX       | Defeitos leves/moderados |
-| POOR   | XXX       | Defeitos severos |
-
 ## 🏷️ Critérios
 
 Ver `docs/classification_criteria.md` para critérios técnicos detalhados.
