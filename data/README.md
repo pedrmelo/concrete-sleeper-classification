@@ -1,13 +1,30 @@
 # Dataset
-   
-   Esta pasta contém os dados do projeto.
-   
-   ## Estrutura
-   
-   - `raw/` - Imagens originais
-   - `processed/` - Imagens pré-processadas
-   - `splits/` - Divisão train/val/test
-   
-   ## Download
-   
-   Dataset disponível em: [Link do Google Drive]
+
+## 📥 Download
+
+O dataset de dormentes de concreto está disponível no Google Drive:
+
+**Link:** [ADICIONAR LINK AQUI]
+
+## 📊 Estrutura
+
+Após download, organizar como:
+```
+data/
+├── raw/
+│   ├── CLASSE_1_GOOD/
+│   ├── CLASSE_2_FAIR/
+│   └── CLASSE_3_POOR/
+```
+
+## 📋 Estatísticas
+
+| Classe | Quantidade | Descrição |
+|--------|-----------|-----------|
+| GOOD   | XXX       | Dormentes em condições adequadas |
+| FAIR   | XXX       | Defeitos leves/moderados |
+| POOR   | XXX       | Defeitos severos |
+
+## 🏷️ Critérios
+
+Ver `docs/classification_criteria.md` para critérios técnicos detalhados.
