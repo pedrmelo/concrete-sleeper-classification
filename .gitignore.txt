@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Dataset (não subir arquivos grandes)
+data/raw/*
+data/processed/*
+
+# Modelos treinados (não subir)
+models/**/*.h5
+models/**/*.hdf5
+
+# Logs
+*.log
+results/logs/*
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
