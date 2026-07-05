@@ -2,19 +2,19 @@
 
 ## 📥 Download
 
-O dataset de dormentes de concreto está disponível no Google Drive:
+O dataset está disponível na seção de Releases deste repositório:
 
-**Link:** [ADICIONAR LINK AQUI]
+**Release:** Concrete Sleeper Dataset v1.0
 
 ## 📊 Estrutura
 
-Após download, organizar como:
+Após o download, extraia o arquivo `.zip` e organize. Você pode dividir o conjunto em treino, teste e validação já nas pastas ou posteriormente, no seu notebook.
 ```
 data/
 ├── raw/
-│   ├── CLASSE_1_GOOD/
-│   ├── CLASSE_2_FAIR/
-│   └── CLASSE_3_POOR/
+│   ├── GOOD/
+│   ├── FAIR/
+│   └── POOR/
 ```
 
 ## 🏷️ Critérios
