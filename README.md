@@ -1,8 +1,4 @@
-# Classificação Automatizada de Dormentes de Concreto
-
-## 📋 Sobre
-
-Avaliação da qualidade de dormentes de concreto baseado em visão computacional.
+# Avaliação da qualidade de dormentes de concreto baseado em visão computacional.
 
 ## 🎯 Objetivos
 
