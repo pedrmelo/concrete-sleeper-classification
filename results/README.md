@@ -26,21 +26,23 @@ Foram avaliadas as seguintes arquiteturas:
 
 ## 📈 Principais resultados
 
-Entre os modelos clássicos, os resultados foram:
+### Modelos Clássicos
 
-Modelo | Acuracia | Precisão | Recall | F1-score |
-Random Forest | 89,90% | 89,88% | 89,90% | 89,88% |
-SVM | 95,12% | 95,30% | 95,12% | 95,11% |
-XGBoost | 90,24% | 90,99% | 90,24% | 90,07% |
+| Modelo | Acurácia | Precisão | Recall | F1-score |
+| :--- | :---: | :---: | :---: | :---: |
+| **Random Forest** | 89,90% | 89,88% | 89,90% | 89,88% |
+| **SVM** | 95,12% | 95,30% | 95,12% | 95,11% |
+| **XGBoost** | 90,24% | 90,99% | 90,24% | 90,07% |
 
-Entre os modelos deep learning, os resultados foram:
+### Modelos de Deep Learning
 
-Modelo | Acuracia | Precisão | Recall | F1-score |
-InceptionV3 | 97,56% | 97,58% | 97,56% | 97,57% |
-DenseNet121 | 94,08% | 94,58% | 94,08% | 94,04% |
-MobileNetV2 | 97,21% | 97,27% | 97,21% | 97,21% |
-ResNet50 | 96,86% | 96,88% | 96,86% | 96,87% |
-MobileNetV2 | 74,22% | 76,76% | 74,22% | 74,78% |
+| Modelo | Acurácia | Precisão | Recall | F1-score |
+| :--- | :---: | :---: | :---: | :---: |
+| **InceptionV3** | 97,56% | 97,58% | 97,56% | 97,57% |
+| **DenseNet121** | 94,08% | 94,58% | 94,08% | 94,04% |
+| **MobileNetV2** | 97,21% | 97,27% | 97,21% | 97,21% |
+| **ResNet50** | 96,86% | 96,88% | 96,86% | 96,87% |
+| **EfficientNetB0** | 74,22% | 76,76% | 74,22% | 74,78% |
 
 
 ## 📌 Observação
