@@ -168,8 +168,8 @@ concrete-sleeper-classification/
 
 O notebook está dividido em 7 seções principais:
 
-| Seção | Descrição | Tempo |
-|-------|-----------|-------|
+| Seção | Descrição |
+|-------|-----------|
 | 1 | Importação e Configuração
 | 2 | Carregamento do Dataset
 | 3 | Pré-processamento
