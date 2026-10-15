@@ -150,7 +150,6 @@ pip install -r requirements.txt
 ```
 concrete-sleeper-classification/
 ├── data/
-│   ├── FAIR/
 │   ├── GOOD/
 │   └── POOR/
 ├── notebooks/
