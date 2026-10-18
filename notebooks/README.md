@@ -24,7 +24,7 @@ O notebook está organizado nas seguintes etapas:
 2. **Análise exploratória do dataset**
    - Verificação da estrutura das pastas.
    - Contagem de imagens por classe.
-   - Análise da distribuição das classes `GOOD`, `FAIR` e `POOR`.
+   - Análise da distribuição das classes `GOOD` e `POOR`.
 
 3. **Pré-processamento das imagens**
    - Padronização do tamanho das imagens.
@@ -73,5 +73,4 @@ Antes de executar o notebook, o dataset deve estar organizado conforme a estrutu
 data/
 └── raw/
     ├── GOOD/
-    ├── FAIR/
     └── POOR/
