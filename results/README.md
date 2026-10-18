@@ -1,6 +1,6 @@
 # 📊 Resultados
 
-Esta pasta reúne os resultados obtidos durante os experimentos de classificação da qualidade de dormentes de concreto nas classes **GOOD**, **FAIR** e **POOR**.
+Esta pasta reúne os resultados obtidos durante os experimentos de classificação da qualidade de dormentes de concreto nas classes **GOOD** e **POOR**.
 
 Os resultados incluem métricas dos modelos clássicos de Machine Learning e das arquiteturas de Redes Neurais Convolucionais avaliadas no projeto.
 
@@ -30,19 +30,19 @@ Foram avaliadas as seguintes arquiteturas:
 
 | Modelo | Acurácia | Precisão | Recall | F1-score |
 | :--- | :---: | :---: | :---: | :---: |
-| **Random Forest** | 89,90% | 89,88% | 89,90% | 89,88% |
-| **SVM** | 95,12% | 95,30% | 95,12% | 95,11% |
-| **XGBoost** | 90,24% | 90,99% | 90,24% | 90,07% |
+| **Random Forest** | 96,67% | 96,69% | 96,67% | 96,67% |
+| **SVM** | 97,78% | 97,78% | 97,78% | 97,78% |
+| **XGBoost** | 96,67% | 96,69% | 96,67% | 96,67% |
 
 ### Modelos de Deep Learning
 
 | Modelo | Acurácia | Precisão | Recall | F1-score |
 | :--- | :---: | :---: | :---: | :---: |
-| **InceptionV3** | 97,56% | 97,58% | 97,56% | 97,57% |
-| **DenseNet121** | 94,08% | 94,58% | 94,08% | 94,04% |
-| **MobileNetV2** | 97,21% | 97,27% | 97,21% | 97,21% |
-| **ResNet50** | 96,86% | 96,88% | 96,86% | 96,87% |
-| **EfficientNetB0** | 74,22% | 76,76% | 74,22% | 74,78% |
+| **InceptionV3** | 95,56% | 95,56% | 95,56% | 95,56% |
+| **DenseNet121** | 96,67% | 96,69% | 96,67% | 96,67% |
+| **MobileNetV2** | 98,89% | 98,91% | 98,89% | 98,89% |
+| **ResNet50** | 96,67% | 96,69% | 96,67% | 96,67% |
+| **EfficientNetB0** | 95,56% | 95,56% | 95,56% | 95,56% |
 
 
 ## 📌 Observação
