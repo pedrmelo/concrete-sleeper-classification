@@ -14,7 +14,7 @@ A classificação seguiu uma lógica conservadora: quando uma imagem apresentava
 ### Critérios utilizados
 
 | Critério | `GOOD` | `POOR` |
-|---|---|---|---|
+|---|---|---|
 | Trincas longitudinais | Ausentes | Maiores que 1,5 mm ou com penetração significativa |
 | Trincas transversais/oblíquas | Ausentes | Propagação superior a 2/3 da altura ou fratura completa |
 | Armadura exposta | Ausente | Exposição significativa, cobrimento reduzido ou corrosão ativa |
