@@ -5,8 +5,9 @@
 O trabalho tem como objetivo investigar e responder 3 principais questões:
 
 1) Modelos de aprendizado profundo baseados em redes neurais convolucionais são capazes de classificar automaticamente a qualidade de dormentes de concreto a partir de imagens?
-(2) Como o desempenho das arquiteturas convolucionais se compara ao de modelos clássicos de aprendizado de máquina baseados em descritores manuais?
-(3)  Quais modelos apresentam melhor equilíbrio entre desempenho preditivo e viabilidade computacional para uma possível aplicação embarcada?
+2) Como o desempenho das arquiteturas convolucionais se compara ao de modelos clássicos de aprendizado de máquina baseados em descritores manuais?
+3)  Quais modelos apresentam melhor equilíbrio entre desempenho preditivo e viabilidade computacional para uma possível aplicação embarcada?
+
 
 ## 🏗️ Arquiteturas Avaliadas
 
