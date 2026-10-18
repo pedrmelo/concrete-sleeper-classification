@@ -13,7 +13,6 @@ Após o download, extraia o arquivo `.zip` e organize. Você pode dividir o conj
 data/
 ├── raw/
 │   ├── GOOD/
-│   ├── FAIR/
 │   └── POOR/
 ```
 
