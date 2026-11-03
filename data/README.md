@@ -15,7 +15,3 @@ data/
 │   ├── GOOD/
 │   └── POOR/
 ```
-
-## 🏷️ Critérios
-
-Ver `docs/classification_criteria.md` para critérios técnicos detalhados.
